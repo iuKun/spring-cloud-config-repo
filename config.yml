@@ -1,0 +1,6 @@
+dev:
+  config:
+    devList:
+      - gitxxx
+      - gityyy
+      - gitzzz
